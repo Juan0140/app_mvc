@@ -13,5 +13,5 @@
     id="price"
     name="price"
     placeholder="Nombre servicio"
-    value="<?php echo number_format($service->price, 0) ?>">
+    value="<?php echo $service->price ?>">
 </div>
