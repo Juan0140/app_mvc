@@ -6,7 +6,7 @@
     <h2>Buscar Citas</h2>
     <form action="" class="form">
         <div class="field">
-            <label for="date">Fecha</label>
+            <label for="date">Fechas</label>
             <input type="date" name="date" id="date" value="<?php echo $date ?>">
         </div>
     </form>
